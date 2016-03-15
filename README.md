@@ -23,4 +23,4 @@ Check out [Quick Start Guide](wiki/Home)
 The project was conceived at the Business Intelligence department of Otto Group.
 
 ## License
-Licensed under the [Apache License 2.0](https://github.com/ottogroup/schedoscope/blob/master/LICENSE)
+Licensed under the [Apache License 2.0](https://github.com/kaaas/metascope/blob/master/LICENSE)
