@@ -1,5 +1,8 @@
 # Metascope
 
+Metascope is a metadata management tool built at Otto Group. Metascope is able to collect technical, operational and business metadata from your Hadoop Datahub and display the metadata to the user through a web service.
+Metascope serves as an extension to [Schedoscope](https://github.com/ottogroup/schedoscope). 
+
 Check out the [**wiki**](https://github.com/kaaas/metascope/wiki) to learn more about Metascope.
 
 ## Features
