@@ -7,6 +7,12 @@ Check out the [**wiki**](https://github.com/kaaas/metascope/wiki) to learn more 
 
 ## Features
 
+* Overview of data: Get a complete overview of all your tables and partitions and their metadata
+* Search your data: All metadata is indexed and is ready for query
+* Apply filters: Metascope will let you apply filter and facets to your query to find the datasets you need in seconds
+* Data Lineage: Get dependency and lineage information on table and partition level
+* 
+
 ## Getting started
 
 ### Manual Build:
@@ -17,7 +23,7 @@ Check out the [**wiki**](https://github.com/kaaas/metascope/wiki) to learn more 
 3. The .../target/metascope folder includes all necessary files to execute Metascope.
 
 ### Quick Start:
-Check out [Quick Start Guide](wiki/Home)
+Check out [Quick Start Guide](https://github.com/kaaas/metascope/wiki/Quick-Start-Guide)
 
 ## Origins
 The project was conceived at the Business Intelligence department of Otto Group.
