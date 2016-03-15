@@ -8,10 +8,11 @@ Check out the [**wiki**](https://github.com/kaaas/metascope/wiki) to learn more 
 ## Features
 
 * Overview of data: Get a complete overview of all your tables and partitions and their metadata
-* Search your data: All metadata is indexed and is ready for query
-* Apply filters: Metascope will let you apply filter and facets to your query to find the datasets you need in seconds
+* Discover your data: All metadata is indexed and is ready for query
+* Search and filters: Metascope will let you apply filter and facets to your query to find the datasets you need in seconds
 * Data Lineage: Get dependency and lineage information on table and partition level
-* 
+* Collaboration: No need to document your datasets in external portals like Confluence. Create inline documentation for your data and create comments on table and field level
+* Business Metadata: Enrich your data with your own, individual taxonomy. Create tags and assign them to the various datasets to categorize all your data  
 
 ## Getting started
 
